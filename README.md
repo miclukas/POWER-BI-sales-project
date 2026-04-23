@@ -28,6 +28,7 @@ This project was created as part of my data analytics portfolio to demonstrate d
 data cleaning, and business insight visualization skills.
 
 ## Dashboard preview
+This section shows 2 example pages from the full 5-page Power BI dashboard.
 
 ### Page 1
 ![Sales page 1](Sales%20page%201.png)
