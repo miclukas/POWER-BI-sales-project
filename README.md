@@ -26,3 +26,11 @@ and key business insights using interactive visualizations.
 ## Purpose
 This project was created as part of my data analytics portfolio to demonstrate dashboard design, 
 data cleaning, and business insight visualization skills.
+
+## Dashboard preview
+
+### Page 1
+![Sales page 1](Sales%20page%201.png)
+
+### Page 2
+![Sales page 2](Sales%20page%202.png)
